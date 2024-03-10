@@ -51,7 +51,7 @@
 
               <div class="card card-info">
                 <div class="card-header">
-                  <h4>Silahkan Masuk</h4>
+                  <h4>Silahkan Masuk Admin</h4>
                 </div>
 
                 <div class="card-body">
